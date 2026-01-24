@@ -59,7 +59,7 @@
    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
    </a>
   &emsp;
-  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 	
@@ -122,7 +122,7 @@
   &emsp;
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-0078d7.svg?style=plastic&logo=visual-studio&    logoColor=white"></a>
   &emsp;
-    <!-- <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a> -->
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
@@ -138,8 +138,6 @@
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
-### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
- 
 <!-- <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
