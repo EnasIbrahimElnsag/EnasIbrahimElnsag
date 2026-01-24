@@ -59,9 +59,10 @@
    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
    </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+	
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
@@ -79,9 +80,7 @@
   <img alt="MySQL" src="https://user-images.githubusercontent.com/75278136/215292860-d007acea-70b9-45de-952f-1c4e2f81777a.svg" width="60px">
   </a> 
   &emsp;
-  <a href="https://www.postgresql.org/" target="_blank"> 
-  <img alt="PostgreSQL" src="https://user-images.githubusercontent.com/75278136/215292925-ddbdc3eb-8b3e-4633-86a7-18ae827e9b3f.png" width="30px">
-  </a> 
+
 </p> 
 
 
@@ -110,7 +109,7 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <!-- <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a> -->
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/IDEs.gif" width = 50px>  </picture> IDEs
@@ -123,7 +122,7 @@
   &emsp;
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-0078d7.svg?style=plastic&logo=visual-studio&    logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <!-- <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a> -->
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
@@ -139,9 +138,9 @@
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
  
-<p align="center">
+<!-- <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
@@ -152,7 +151,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/RedHat-rgb(255,0,0).svg?&style=plastic&logo=RedHat&logoColor=black" /></a>
-</p>
+</p> -->
 
 <br> 
 
@@ -177,23 +176,23 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/eslam-ezzat-371bb3191/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/enas-elnsag"><img align="left" alt="Enas's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
 
 
-<a href="https://www.facebook.com/eslam.ezzat.3367174">
-  <img align="left" alt="Eslam's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
+<a href="https://www.facebook.com/enas.ebrahimelnsag?mibextid=ZbWKwL">
+  <img align="left" alt="Enas's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
 </a>
 
 
 
-<a href="https://www.instagram.com/eslam_ezzat6/">
+<!-- <a href="https://www.instagram.com/eslam_ezzat6/">
   <img align="left" alt="Eslam's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
+   -->
   
   
-  
-<a href="https://github.com/EslamEzzat433">
-  <img align="left" alt="Eslam's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+<a href="https://github.com/EnasIbrahimElnsag">
+  <img align="left" alt="Enas's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
 <br>
 
