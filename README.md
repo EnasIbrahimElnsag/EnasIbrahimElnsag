@@ -12,13 +12,13 @@
 
 <br><br>
 
-- :school: `Teaching Assistant` @[Faculty of Science, Minia University](https://www.minia.edu.eg/sci/).
-- :computer: `Software Programming Instrucor` @[almentor](https://www.almentor.net/)
-- :school: Awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of `420 student` at college level.
+- :school: `Student ` @[Faculty of Computers and Artificial Intelligence, Minia National University](https://www.minia.edu.eg/sci/).
+<!-- :computer: `Software Programming Instrucor` @[almentor](https://www.almentor.net/)-->
+<!--- :school: Awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of `420 student` at college level.
 - :school: Achieved `1`<sup>st</sup> place out of `35 student` at the level of Department of Computer Science.
 - :computer: Competed in Egyptian Collegiate Programming Contest `(ECPC) 2020`, Africa Collegiate Programming Contest `(ACPC) kickoff online contest 2020`.
 - :computer: Practiced rapid typing, generating `115 words per minute`, and `achieving top 4 percent` @[Fast Finger](https://10fastfingers.com/).
-- :computer: A Competitive Programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
+- :computer: A Competitive Programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.-->
 <br>
 
 ## <picture> <img src="https://github.com/cs-EslamEzzat/cs-EslamEzzat/blob/main/competitive_programming_profile.png" width="40px"> </picture> My Competitive Programming Profiles
@@ -33,9 +33,9 @@
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/Connect-with-me.gif" width="100px"> </picture> Connect with me
 <p align="center">
 &nbsp;
-	<a href="mailto:ezzateslam131@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:enaselnsag@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
-	<a href="https://github.com/EsEz1"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href=""><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
 	<a href="https://wa.me/0201032177433"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	&emsp;
