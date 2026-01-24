@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Enas Ibrahim Elnsag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+Faculty+of+Computers+and+Artificial+Intelligence"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Student;+at+Faculty+of+Computers+and+Artificial+;Intelligence"></a>
 </p>
 
 
@@ -18,9 +18,9 @@
 ## <picture> <img src="https://github.com/cs-EslamEzzat/cs-EslamEzzat/blob/main/competitive_programming_profile.png" width="40px"> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Soly_Ezzat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="50px" height="50px" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/u/cs-EslamEzzat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="50px" height="50px" alt="LeetCode"/></a>
-	 <a href="https://www.hackerrank.com/EsEz1?hr_r=1"><img src="https://github.com/EsEz1/EsEz1/blob/main/HackerRank.png" width="50px" height="50px" alt="HackerRank"/></a>
+  <a href="https://codeforces.com/profile/enaselnsag"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="50px" height="50px" alt="Code Forces"/></a>
+	<a href="https://leetcode.com/u/EnasIbrahimElnsag/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="50px" height="50px" alt="LeetCode"/></a>
+	 <a href="https://www.hackerrank.com/profile/enaselnsag"><img src="https://github.com/EsEz1/EsEz1/blob/main/HackerRank.png" width="50px" height="50px" alt="HackerRank"/></a>
 	<a href="https://www.codechef.com/users/eslam_ezzat"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" width="50px" height="50px"/></a> 
 </p>
 
