@@ -123,7 +123,7 @@
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
-<br>
+
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
