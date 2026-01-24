@@ -23,7 +23,7 @@
 	 <a href="https://www.hackerrank.com/profile/enaselnsag"><img src="https://github.com/EsEz1/EsEz1/blob/main/HackerRank.png" width="50px" height="50px" alt="HackerRank"/></a>
 	<a href="https://www.codechef.com/users/enas_elnsag"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" width="50px" height="50px"/></a> 
 </p>
-<br>
+
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/Connect-with-me.gif" width="100px"> </picture> Connect with me
 <p align="center">
 &nbsp;
@@ -39,7 +39,7 @@
 	&emsp;
 </p>
 
-<br>
+
 
 ## 🛠️ My Skills
 
@@ -68,7 +68,7 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
 </p>
-<br>
+
 ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Database.gif" width = "50px">  </picture> Database
 
 <p align="center"> 
@@ -100,7 +100,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
-<br>
+
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Software_Tools.gif" width = 50px>  </picture> Software & Tools
  
 <p align="center">
@@ -111,7 +111,7 @@
   &emsp;
     <!-- <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a> -->
 </p>
-<br>
+
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/IDEs.gif" width = 50px>  </picture> IDEs
  
 <p align="center">
