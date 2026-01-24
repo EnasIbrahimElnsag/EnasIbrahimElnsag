@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :school: `Student ` @[Faculty of Computers and Artificial Intelligence, Minia National University](https://www.minia.edu.eg/sci/).
+- :school: `Student ` @[Faculty of Computers and Artificial Intelligence, Minia National University].
 <!-- :computer: `Software Programming Instrucor` @[almentor](https://www.almentor.net/)-->
 <!--- :school: Awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of `420 student` at college level.
 - :school: Achieved `1`<sup>st</sup> place out of `35 student` at the level of Department of Computer Science.
