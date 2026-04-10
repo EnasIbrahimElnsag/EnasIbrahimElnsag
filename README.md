@@ -13,6 +13,14 @@
 <br><br>
 
 - :school: `Student `at Faculty of Computers and Artificial Intelligence, Minia National University.
+- 🎓 Student @ Faculty of Computers & Artificial Intelligence, Minya National University
+- 🥈 Ranked 2nd among 450+ students (Cumulative GPA)
+- 🎤 Active Participant in university activities and technical events
+- 🏛️ Vice Head of Scientific Committee @ Faculty Student Union
+- 🤖 Working on multiple AI Projects (Machine Learning & Deep Learning)
+- 🌐 Developing IoT Projects integrated with AI
+- 💡 Passionate about AI Applications & Smart Systems
+- 🤝 Strong networking and teamwork skills
 <br>
 
 ## <picture> <img src="https://github.com/cs-EslamEzzat/cs-EslamEzzat/blob/main/competitive_programming_profile.png" width="40px"> </picture> My Competitive Programming Profiles
