@@ -13,7 +13,6 @@
 <br><br>
 
 - :school: `Student `at Faculty of Computers and Artificial Intelligence, Minia National University.
-- 🎓 Student @ Faculty of Computers & Artificial Intelligence, Minya National University
 - 🥈 Ranked 2nd among 450+ students (Cumulative GPA)
 - 🎤 Active Participant in university activities and technical events
 - 🏛️ Vice Head of Scientific Committee @ Faculty Student Union
